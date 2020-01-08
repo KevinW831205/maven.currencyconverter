@@ -1,5 +1,4 @@
 package com.github.curriculeon;
-
 public enum CurrencyType {
     AUSTRALIAN_DOLLAR(2.70),
     CANADIAN_DOLLAR(2.64),
